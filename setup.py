@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="student_clustering_app",
     version="1.0.0",
-    author="Minal Madankar Devikar",
-    author_email="meenal.madankar@gmail.com",
+    author="Pankaj Devikar",
+    author_email="pankaj.devikar@gmail.com",
     description="A Streamlit app for clustering students based on performance and learning styles.",
     packages=find_packages(),
     include_package_data=True,
